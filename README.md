@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> My love for Web Development started when I was working at Puzix Technology. I have been hooked since then and I love adding to the World Wide Web. I am highly motivated and career driven, hence why I joined Microvese. I am someone who is proactive and take ownership of my own personal development and career progression. </p>
+<p align="center"> My love for Web Development started when I was working at Puzix Technology. I have been hooked since then and I love adding to the World Wide Web. I am highly motivated and career driven, hence why I joined Microvese. I am proactive and take ownership of my own personal development and career progression. </p>
 <h3 align="center">Student at Microverse🌟<img align="center"
       src="https://media-exp1.licdn.com/dms/image/C560BAQHr8P7gQ95yCQ/company-logo_100_100/0/1578673850004?e=1652918400&v=beta&t=RXH0ssSZr97PvQaT2jIxUMIaJkUaz8y790PmEicZ6WA"
       alt="adam pithewan" height="30" width="40" /></a>.</h3>
